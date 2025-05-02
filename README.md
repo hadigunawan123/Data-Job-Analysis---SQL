@@ -52,7 +52,9 @@ LIMIT 15;
 
 Here's the breakdown of the top data analyst jobs in 2023:
 
--**Wide Salary Range**: Top 15 paying data analyst roles span from $50,400 to $132,500, indicating significant salary potential in the field. -**Diverse Employers**: Companies like GoTo Group, Stockbit, and Samsung Electronics are among those offering high salaries, showing a broad interest across different industries. -**Job Title Variety**: There's a high diversity in job titles, from Data Analyst (Junior), Audit Data Analytics, and Marketing Data Analytics Manager, reflecting varied roles and specializations within data analytics.
+-**Wide Salary Range**: Top 15 paying data analyst roles span from $50,400 to $132,500, indicating significant salary potential in the field. 
+-**Diverse Employers**: Companies like GoTo Group, Stockbit, and Samsung Electronics are among those offering high salaries, showing a broad interest across different industries. 
+-**Job Title Variety**: There's a high diversity in job titles, from Data Analyst (Junior), Audit Data Analytics, and Marketing Data Analytics Manager, reflecting varied roles and specializations within data analytics.
 
 ![Top Paying Roles](https://github.com/hadigunawan123/Data-Job-Analysis---SQL/blob/main/assets/Q1.jpg)
 \*Only 13 are shown due to data limitations
