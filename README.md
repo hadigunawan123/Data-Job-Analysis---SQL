@@ -52,9 +52,9 @@ LIMIT 15;
 
 Here's the breakdown of the top data analyst jobs in 2023:
 
--**Wide Salary Range**: Top 15 paying data analyst roles span from $50,400 to $132,500, indicating significant salary potential in the field. 
--**Diverse Employers**: Companies like GoTo Group, Stockbit, and Samsung Electronics are among those offering high salaries, showing a broad interest across different industries. 
--**Job Title Variety**: There's a high diversity in job titles, from Data Analyst (Junior), Audit Data Analytics, and Marketing Data Analytics Manager, reflecting varied roles and specializations within data analytics.
+- **Wide Salary Range**: Top 15 paying data analyst roles span from $50,400 to $132,500, indicating significant salary potential in the field. 
+- **Diverse Employers**: Companies like GoTo Group, Stockbit, and Samsung Electronics are among those offering high salaries, showing a broad interest across different industries. 
+- **Job Title Variety**: There's a high diversity in job titles, from Data Analyst (Junior), Audit Data Analytics, and Marketing Data Analytics Manager, reflecting varied roles and specializations within data analytics.
 
 ![Top Paying Roles](https://github.com/hadigunawan123/Data-Job-Analysis---SQL/blob/main/assets/Q1.jpg)
 \*Only 13 are shown due to data limitations
@@ -93,7 +93,9 @@ ORDER BY total_appearance DESC;
 
 Here's the breakdown of the most demanded skills for Indonesian data analysts in 2023, based on high paying job postings:
 
--**SQL** is leading with a bold count of 9. -**Python** follows closely with a bold count of 8. -**Excel** is also highly sought after, with a bold count of 6.
+- **SQL** is leading with a bold count of 9. 
+- **Python** follows closely with a bold count of 8. 
+- **Excel** is also highly sought after, with a bold count of 6.
 -Other skills like **R, BigQuery, Tableau, and Power BI**, show varying degrees of demand.
 
 ![Top Paying Roles](https://github.com/hadigunawan123/Data-Job-Analysis---SQL/blob/main/assets/Q2.jpg)
