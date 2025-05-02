@@ -86,7 +86,7 @@ WITH top_paying_jobs AS (
 )
 SELECT skills,
    COUNT(*) AS total_appearance
-from top_skills
+FROM top_skills
 GROUP BY skills
 ORDER BY total_appearance DESC;
 ```
