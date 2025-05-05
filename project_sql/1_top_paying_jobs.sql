@@ -27,6 +27,8 @@ LIMIT 15;
  -Wide Salary Range: Top 15 paying data analyst roles span from $50,400 to $132,500, indicating significant salary potential in the field.
  -Diverse Employers: Companies like GoTo Group, Stockbit, and Samsung Electronics are among those offering high salaries, showing a broad interest across different industries.
  -Job Title Variety: There's a high diversity in job titles, from Data Analyst (Junior), Audit Data Analytics, and Marketing Data Analytics Manager, reflecting varied roles and specializations within data analytics.
+ 
+ Notes: Based on the data we have in the database, the salary rate for that job position is listed as yearly. However, this could be misleading — there's a possibility that the salary is actually hourly and in Indonesian Rupiah. Nonetheless, this does not affect the ordering, so our query remains valid. Additionally, since many positions do not display salary information, we only consider the data that includes salary details.
  ========================
  
  ===Results: Top 15 jobs ordered by salary (annualy) in Indonesia===
